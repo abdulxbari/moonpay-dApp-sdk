@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@pushprotocol/restapi": "^1.0.4",
-    "@pushprotocol/socket": "^0.4.2",
+    "@pushprotocol/socket": "^0.5.3",
     "@types/node": "18.15.11",
     "dotenv": "^16.0.3",
     "ethers": "^5.6",
